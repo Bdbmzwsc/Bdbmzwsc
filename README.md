@@ -1,5 +1,5 @@
 ### Hi there 👋 
-![Bdbmzwsc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bdbmzwsc&show_icons=true&theme=gruvbox)
+![Bdbmzwsc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bdbmzwsc&show_icons=true&theme=merko)
 
 
 <!--
