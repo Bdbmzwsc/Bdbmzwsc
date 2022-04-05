@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 📫 How to reach me: 
+📫 How to reach me: 
 - QQ:1726016497
 - email:[chinabdbmzwsc@outlook.com](:mailto:chinabdbmzwsc@outlook.com)
 - Discord:@Bdbmzwsc
