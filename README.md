@@ -6,7 +6,7 @@
 - Discord:@Bdbmzwsc
 
 ![Bdbmzwsc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bdbmzwsc&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bdbmzwsc&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-<img src="//player.bilibili.com/player.html?aid=973569217&bvid=BV1a44y167sd&cid=353696545&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </img>
+
 
 
 
