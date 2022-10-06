@@ -5,8 +5,6 @@
 - 📫 How to reach me: 
 - QQ:1726016497
 - email:[chinabdbmzwsc@outlook.com](:mailto:chinabdbmzwsc@outlook.com)
-- Discord:@Bdbmzwsc
-- And im a developer of dotnet.
 
 ### 💻 OS
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
@@ -41,5 +39,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-and...
-dont afraid of anything,just do the thing you want
