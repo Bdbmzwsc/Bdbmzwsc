@@ -1,25 +1,28 @@
 ### Hi there 👋 
 
-- 🔭 Im a a first-year junior high school student from Zhuhai,China.
-- 🌱 Im learning algorithm and rust
-- 📫 How to reach me: 
-- QQ:1726016497
-- email:[chinabdbmzwsc@outlook.com](:mailto:chinabdbmzwsc@outlook.com)
+- 🔭I'm currently a 13-year-old student in a junior high school.
+- 🌱I'm currently learning rust and algorithm.
 
-### 💻 OS
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
+### 📫How to reach me
+- QQ: 1726016497
+- Twitter: @Bdbmzwsc
+- WeChat: Li_112655
+- email: chinabdbmzwsc@outlook.com
 
-### 👩‍💻 IDE
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /> <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
+### Analyze
+<code>
+  <img src="https://img.shields.io/static/v1?label=Favorite%20Programming%20Language&message=C%20Sharp&style=for-the-badge&logo=sharp&color=A0CD00)" />
+  <img src="https://img.shields.io/static/v1?label=Editor&message=Vscode&style=for-the-badge&logo=Visual%20Studio%20Code&color=007ACC" />
+  <img src="https://img.shields.io/static/v1?label=Os&message=Mac&style=for-the-badge&logo=Apple&color=000000" />
+ </code>
 
-### 👩‍💻 Languages
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/R-Rust-yellow?style=for-the-badge&logo=appveyor" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<code>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bdbmzwsc&show_icons=true&theme=tokyonight" />
+</code>
 
-### 💻 Terminal
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bdbmzwsc&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
-
-![Bdbmzwsc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bdbmzwsc&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bdbmzwsc&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
