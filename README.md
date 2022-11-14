@@ -11,7 +11,7 @@
 
 ### Analyze
 <code>
-  <img src="https://img.shields.io/static/v1?label=Favorite%20Programming%20Language&message=C%20Sharp&style=for-the-badge&logo=sharp&color=A0CD00)" />
+  <img src="https://img.shields.io/static/v1?label=Favorite%20Programming%20Language&message=Rust&style=for-the-badge&logo=Rust&color=A0CD00)" />
   <img src="https://img.shields.io/static/v1?label=Editor&message=Vscode&style=for-the-badge&logo=Visual%20Studio%20Code&color=007ACC" />
   <img src="https://img.shields.io/static/v1?label=Os&message=Mac&style=for-the-badge&logo=Apple&color=000000" />
  </code>
